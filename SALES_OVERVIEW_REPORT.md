@@ -59,7 +59,7 @@ This report provides a comprehensive overview of sales performance based on the 
 - USA ($3,627,982.83)
 
 ## Recommendations
-1. Focus marketing efforts on Classic Cars and USA market
+1. Focus marketing efforts on Classic Cars and the USA market
 2. Investigate reasons for cancelled/disputed orders
 3. Monitor monthly sales trends for seasonality patterns
 4. Consider expansion in top-performing countries
