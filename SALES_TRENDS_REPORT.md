@@ -62,8 +62,8 @@ This report analyzes sales trends over time using the cleaned sales data, coveri
 
 ### Seasonal Observations
 - **Q4 consistently strongest**: Both 2003 and 2004 show Q4 as the best quarter
-- **November peak**: Highest single month performance in November
-- **Spring strength**: April shows strongest average monthly performance
+- **November peak**: Highest single-month performance in November
+- **Spring strength**: April shows the strongest average monthly performance
 - **September weakness**: Lowest average monthly performance
 
 ## Questions Answered
