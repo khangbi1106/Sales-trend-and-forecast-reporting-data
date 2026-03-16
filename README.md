@@ -1,7 +1,7 @@
 # Sales Trend and Forecast Reporting Dataset
 
 ## Overview
-This dataset contains sample retail sales data including orders, customers, products, and shipping information. It is designed for data analysis, business intelligence, and forecasting practice.
+This dataset contains sample retail sales data, including orders, customers, products, and shipping information. It is designed for data analysis, business intelligence, and forecasting practice.
 
 The dataset can be used to explore sales trends, customer behavior, product performance, and demand forecasting in a retail environment.
 
